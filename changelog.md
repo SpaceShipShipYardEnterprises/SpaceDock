@@ -27,6 +27,7 @@
    * Fixed
       * maximum_drag < minimum_drag
 * 0.2.0
+   * Removed electric charge resource and the reaction wheel
    * 2 additional sets (6 more) of SpaceDocks in different Bulkhead sizes.
    * Rebalanced parts
    * Adjusted
