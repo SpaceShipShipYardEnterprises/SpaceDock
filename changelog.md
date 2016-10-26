@@ -26,10 +26,13 @@
          * description
    * Fixed
       * maximum_drag < minimum_drag
-* 0.2.0 (Comming Soon)
+* 0.2.0
+   * 2 additional sets (6 more) of SpaceDocks in different Bulkhead sizes.
+   * Rebalanced parts
    * Adjusted
       * name
       * node_stack_*
+      * mass (based on some ridiculous math)
       * Editor
          * title
          * manufacturer
@@ -41,3 +44,5 @@
       * Support
          * ExTarget
          * ShipYard
+   * Fixed
+      * Invalid stack node id naming
