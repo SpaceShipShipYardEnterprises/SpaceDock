@@ -51,6 +51,6 @@
    * Fixed Wrong description text for a technode
    * Mod Support KIS (KISPickup)
    * Reduced entry costs
-0.2.2
+* 0.2.2
    * Removed stevie_D models and associated parts
    * Added NanoDock and MicroDock Parts
